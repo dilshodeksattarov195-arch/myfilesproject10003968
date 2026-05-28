@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvender",
+        "uuid": 33120896,
+        "checksum": "l5qyqa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
